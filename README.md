@@ -2,17 +2,10 @@ Music Genre Wise Classification.
 
 Given the increasing content of music in the web by artists and also on social platforms by enthusiasts. There is a requirement to tag the songs appropriately for customisation by reccomendation engines. So the following is an attempt to classify music genre wise. Data has been from Free Music Archive. The features have been extracted for each song using librosa package. 
 
-The features correspond to Pitch Class intensities (Chromagram), Centroid frequency    
-This is an attempt to classify Music based on genre
-The Code is to classify Music Songs Genre Wise
-
-The features used have been extracted from
+The features correspond to Pitch Class intensities (Chromagram) and Centroid frequency.    
+This is an attempt to classify Music based on genre. The features used have been extracted from chromagrams of the songs.
 
 This following code is written in R language in RStudio
-
-The 
-
-
 
 
 ##############################
