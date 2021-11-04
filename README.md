@@ -14,7 +14,7 @@ rm(list=ls(all=T))
 require(DMwR)
 require(caret)
 #require(corrplot)
-setwd("C:\\Users\\Lokesh Bharat\\Desktop\\lab resources\\internship")
+setwd("C:\\Users\\Sarath Bhushan\\Desktop\\lab resources\\internship")
 music<-read.csv("musicfeatures.csv", skip = 4, stringsAsFactors = F)
 
 ############################################################################
